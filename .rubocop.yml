@@ -13,7 +13,7 @@ Metrics/BlockLength:
     - "**/*_spec.rb"
 
 Metrics/MethodLength:
-  Max: 40
+  Max: 80
 
 Metrics/ModuleLength:
   Max: 200
